@@ -15,7 +15,8 @@ The project combines a clean, intuitive interface with practical conversion and 
 
 ## Screenshots
 
-*Screenshots coming soon.*
+<img width="320" height="603" alt="1000019647" src="https://github.com/user-attachments/assets/be83b3d5-dec9-45a7-852c-d385d6498fe1" /><img width="320" height="603" alt="1000019650" src="https://github.com/user-attachments/assets/d793965e-bf2b-4235-ab33-5af6696f27be" /><img width="320" height="603" alt="1000019649" src="https://github.com/user-attachments/assets/50c8d94f-5727-4c32-bfe9-b0354cad729c" /><img width="320" height="603" alt="1000019648" src="https://github.com/user-attachments/assets/618fa4cc-5196-424a-a8cb-55f35b89db82" />
+
 
 ## Download
 
